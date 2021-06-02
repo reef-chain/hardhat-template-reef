@@ -9,6 +9,6 @@
     "hardhat": "^2.1.1"
   },
   "dependencies": {
-    "@reef-defi/hardhat-reef": "^0.4.14"
+    "@reef-defi/hardhat-reef": "^0.4.17"
   }
 }
